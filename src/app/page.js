@@ -426,7 +426,7 @@ export default function CurrencyConverter() {
         <div className="w-full max-w-2xl">
           <header className="text-center mb-10">
             <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-purple-600 to-indigo-700 text-transparent bg-clip-text">
-              Currency Converter
+              GlobaRate.co
             </h1>
             <p className="text-gray-600 max-w-md mx-auto">
               Real-time currency conversion with the latest exchange rates
@@ -641,8 +641,7 @@ export default function CurrencyConverter() {
 
         <footer className="mt-10 text-center text-sm text-gray-500">
           <p>
-            © {new Date().getFullYear()} Currency Converter | Real-time Exchange
-            Rates
+            © {new Date().getFullYear()} GlobaRate.co | All rights reserved.
           </p>
         </footer>
       </div>
